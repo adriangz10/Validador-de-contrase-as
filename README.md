@@ -1,0 +1,1 @@
+# Validador-de-contrase-as
